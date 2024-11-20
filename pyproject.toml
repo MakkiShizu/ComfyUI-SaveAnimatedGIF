@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-saveanimatedgif"
+description = "Save animated GIF format nodes in ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/MakkiShizu/ComfyUI-SaveAnimatedGIF"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "makki-shizu"
+DisplayName = "ComfyUI-SaveAnimatedGIF"
+Icon = ""
