@@ -14,7 +14,6 @@ I haven't conducted an in-depth search through third-party node libraries, **so 
 
 You can use the following ComfyUI Workflow to check the functionality of the node.
 ![image](./example/SaveAnimatedGIF.png)
-![image](./example/SaveAnimatedGIF.gif)
 
 ## Installation
 
