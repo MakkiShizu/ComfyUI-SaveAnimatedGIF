@@ -1,4 +1,6 @@
-# ComfyUI-SaveAnimatedGIF
+# The work of this repository is non-standard and repetitive, please use [ComfyUI-VideoHelperSuite](https://registry.comfy.org/nodes/comfyui-videohelpersuite)
+
+## ComfyUI-SaveAnimatedGIF
 
 ## Description
 
